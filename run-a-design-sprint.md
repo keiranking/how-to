@@ -31,8 +31,8 @@ Because building a product is extremely risky. Most businesses, most products fa
 
 To make your chance of success better than a coin toss, you need to remove some of the risk, the uncertainty. That's what the PDS is designed to do.
 
-Problem: Most products fail
-Solution: PDS to de-risk business and partially validate solution
+- Problem: Most products fail
+- Solution: PDS to de-risk business and partially validate solution
 
 The PDS itself is a well-validated solution to a well-defined problem.
 
@@ -57,49 +57,101 @@ Why are we doing this? What's the big problem we're trying to solve?
 - Can a mobile app significantly reduce the time it takes to care for someone with TBI on a daily basis?
 - Will people with TBI find a mobile app helpful in their daily life?
 
-### 11:00 Expert interview
-- [ ] Kelli Blaize, researcher (kblaize@genevausa.org, 940-859-8547)
+### 12:30 Lunch
 
-### 12:00 Map
-- Key players on the left
-- Actions on the right
-- Lines indicate sequence
-- Vertical position indicates who is involved in each step
-
-### 14:00 Expert interviews
+### 01:30 Expert interviews
 Explain How Might We notes.
 
-- [ ] 14:00 Dr Jay Bucci, provider (jay.r.bucci.mil@mail.mil, 210-808-7072)
-- [ ] 14:30 Rebekah Gorsuch, caregiver (jermandbecky@yahoo.com, 360-584-6430)
-- [ ] 14:30 Jeremiah Gorsuch, TBI-er
-- [ ] 15:00 TJ Turqman, TBI-er (teecubed333@yahoo.com, 707-973-4186)
-- [ ] 15:30 Dr Phil Eye, provider (p.g.eye88@gmail.com, 516-603-8849)
-- [ ] 16:00 Jason Sorell, provider (jasonsorell@yahoo.com, 816-825-6790)
-- [ ] 16:00 Matt Sorell, provider (816-668-4453)
-- [ ] 16:30 Col Reynolds, TBI-er (rodger.t.reynolds@gmail.com, 850-544-2231)
+- [ ] 01:30 TJ Turqman, TBI-er (teecubed333@yahoo.com, 707-973-4186)
+- [ ] 02:00 Dr Jay Bucci, provider (jay.r.bucci.mil@mail.mil, 210-808-7072)
+- [ ] 02:30 Jeremiah & Rebekah Gorsuch, TBI + caregiver (jermandbecky@yahoo.com, 360-584-6430)
 
+### 03:00 Break
 
-### 17:00 Classify notes
+### 03:30 Expert interviews
+
+- [ ] 03:30 Dr Phil Eye, provider (p.g.eye88@gmail.com, 516-603-8849)
+- [ ] 04:00 Jason Sorell, provider (jasonsorell@yahoo.com, 816-825-6790)
+- [ ] 04:30 Roger and Daphne Reynolds, TBI-er (rodger.t.reynolds@gmail.com, 850-544-2231)
+
+### 05:00 Break
+
+### 05:15 Classify notes
 Stick all notes on a wall and group them by what seems like and unlike.
 
-### 17:15 Vote on notes
-Each person has 2 dots to vote on compelling notes.
-- Move notes with votes onto the map.
-
-### 017:30 Target
-Decider chooses most important player _(guess: TBI-er)_ and mini-sequence on the map.
+### 05:30 Preview next day
 
 ----
 
 # Tuesday - Sketch
 
+### 10:00 Recap previous day
+
+### 10:15 Map
+- Key players on the left
+- Actions on the right
+- Lines indicate sequence
+- Vertical position indicates who is involved in each step
+
+### 11:30 Target
+Decider chooses most important player _(guess: TBI-er)_ and mini-sequence on the map.
+
+### 11:40 Vote on notes
+Each person has 2 dots to vote on compelling notes.
+- Move notes with votes onto the map.
+
+### 12:00 Lunch
+
+### 12:45 Lightning Demos
+
+### 1:30 Gather ideas from room
+
+### 1:45 Jot ideas
+
+### 2:00 Break: Michael has a business call
+
+### 3:00 Crazy 8s
+
+### 3:15 Sketch
+
+### 4:45 Preview next day
 ----
 
 # Wednesday - Decide
 
+### 10:00 Recap previous day
+
+### 10:15 Heat Map
+Tape the solutions to the wall in a row. Everybody reviews silently and places dot stickers beside interesting parts.
+
+### 10:45 Critique
+3 min each. Discuss highlights, capture big ideas. Owner of idea speaks at end, if needed.
+
+### 11:30 Simultaneous Vote
+- Everyone else dot-votes for their favorite idea.
+- Decider gets 3 dot-votes and veto power.
+- Move winning sketches onto map.
+
+### 12:00 Lunch
+
+### 01:00 Storyboard
+Draw grid, take risks.
+
+### 03:00 Break
+
+### 03:30 Storyboard
+
+### 04:45 Preview next day
+
 ----
 
 # Thursday - Prototype
+
+### 10:00 Assign roles
+- Maker
+- Stitcher
+- Writer
+- Asset collector
 
 ----
 
