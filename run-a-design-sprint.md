@@ -1,5 +1,4 @@
-Product Design Sprint
-We2Link
+# We2Link Product Design Sprint
 17-21 Dec 2018
 
 ----
