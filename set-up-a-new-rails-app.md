@@ -1,4 +1,6 @@
+# Set up a new Rails app
 
+----
 
 In a Terminal window, navigate to your coding directory.
   - eg `cd coding/personal/`
